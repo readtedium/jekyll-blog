@@ -2,7 +2,7 @@
 date: '2018-11-03T19:49:33.163Z'
 layout: home
 ---
-# <a id="_wcbyik9p97p8"></a>Welcome to the new CMS
+# <a id="_wcbyik9p97p8"></a>Testing 1-2-Freaking-3
 
 This is your home page. You can edit it just like a regular document.
 
